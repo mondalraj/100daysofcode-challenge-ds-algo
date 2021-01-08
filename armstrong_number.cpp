@@ -8,7 +8,7 @@ int main()
 {
     int num;
     cout << "Enter a number";
-    cin << num;
+    cin >> num;
 
     int sum = 0;
     int n = num;
